@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/Lenovo/.vscode"
+		},
+		{
+			"path": "../../Web Development"
+		},
+		{
+			"path": "../../Web Development/Bootstrap"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Web Development"
+	}
+}
